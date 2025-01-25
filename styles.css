@@ -17,10 +17,12 @@ p {
 div {
    text-align: center;
     width: 800px;
+    height:700px;
 }    
 
 img {
     width: 800px;
+    height: 800px;
     text-align: center;
    
 }
