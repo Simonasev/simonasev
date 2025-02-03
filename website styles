@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<header>
+
+    <title>website style guide</title>
+    <link rel="stylesheet" href="style.css/website.css">
+    <div class="title"> 
+          <p class="web">website style guide</p>
+    </div>
+      
+</header>
+<body>
+    <section>
+      <div class="section">
+      <h3>COLORS</h3>
+      <img src="style.css/images/drawing-color-palette-line-icon-outline-vector-sign-linear-style-pictogram-isolated-white-symbol-logo-illustration-editable-95888440.webp" class="picto" align="right">
+      <ul class="colors">
+        <li class="beige">Beige rgb(245, 245,220)</li>
+        <li class="lightolive">Light Olive Green rgb(129, 150, 97)</li>
+        <li class="darkolive">Dark Olive green rgb(65, 64, 31)</li>
+        <li class="darknavy">Dark navy blue rgb(31, 42, 65)</li>
+      </ul> 
+    </div> 
+    <div class="section">
+      <h3>FONTS</h3>
+      <ul>
+        <li class="arial">Arial, Helvetica, sans-serif<br>this is text</br></li>
+        <li class="fantasy">Fantasy<br>This is text</br></li>
+        <li class="lucida">'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif<br>This is text</br></li>
+        <li class="inherit">Inherit<br>This is text</br></li>
+      </ul> 
+    </div>
+    <div class="section">
+      <h3>TEXT STYLES</h3>
+      <h1> H1: Main page heading</h1>
+        <ul class="style"> 
+          <li>Font-weight: 700 (bold)</li>
+          <li>Font-size: 26px</li>
+          <li>Font-family: Arial, Helvetica</li>
+        </ul>
+      <h2> H2: Subheading</h2>
+      <ul class="style"> 
+        <li>Font-weight: 500</li>
+        <li>Font-size: 18x</li>
+        <li>Font-family: Fantasy</li>
+      </ul>
+      <h4>P: Paragraph text</h4>
+      <ul class="style"> 
+        <li>Font-weight: 400 (regular)</li>
+        <li>Font-size: 14px</li>
+        <li>Font-family: Unherit</li>
+      </ul>
+    </div>
+
+   </section>
+</body>
