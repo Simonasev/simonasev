@@ -1,0 +1,156 @@
+ .title {
+    height: 400px;
+    width: auto;
+    border-bottom: 4px solid rgb(79, 46, 9);
+    border-top: 4px solid rgb(79, 46, 9);
+    background-image: url(images/website.png);
+    background-position: right;
+    background-color: beige;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.5;
+
+}
+
+.section {
+    position: relative;
+    width: 100%;
+    height:100%;
+    text-align: center;
+    background-color:rgb(246, 246, 235);
+    border-bottom: 4px solid rgb(65, 64, 31);
+  }
+  
+.web {
+    position: relative;
+    color: rgb(65, 64, 31);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120px;
+    text-align: center;
+    z-index: 1;
+  }
+
+  .picto {
+    z-index: -1;
+    width: 400px;
+    height: auto;
+    opacity: 0.5;
+  }
+
+  h1 {
+    font-weight: 700 bold;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 2px solid rgb(65, 64, 31);
+    border-top: 2px solid rgb(65, 64, 31);
+  }
+
+  h2 {
+    font-size: 500;
+    font-size: 18px;
+    font-family: fantasy;
+    border-bottom: 2px solid rgb(65, 64, 31);
+    border-top: 2px solid rgb(65, 64, 31);
+  }
+
+  h4 {
+    font-weight: 400 regular;
+    font-size: 14px;
+    font-family: inherit;
+    border-bottom: 2px solid rgb(65, 64, 31);
+    border-top: 2px solid rgb(65, 64, 31);
+  }
+
+ h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    color: beige;
+    text-align: left;
+    background-color: rgb(65, 64, 31);
+ }
+
+.colors {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+}
+
+.beige {
+    background-color: beige;
+    width: 500px;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+
+}
+
+.lightolive {
+    background-color: rgb(129, 150, 97);
+    width: 500px;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+}
+
+.darkolive {
+    background-color:rgb(65, 64, 31);
+    width: 500px;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+}
+
+.darknavy {
+    background-color: rgb(31, 42, 65);
+    width: 500px;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    width:auto;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.fantasy {
+    font-family: fantasy;
+    background-color: beige;
+    width: auto;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.lucida {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+    width: auto;
+    height: auto;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.inherit {
+    font-family: inherit;
+    background-color: beige;
+    width: auto;
+    height: 100px;
+    border: 1px solid rgb(79, 46, 9);
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.style {
+    text-align: left;
+    font-size: 20px;
+}
